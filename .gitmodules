@@ -1,0 +1,3 @@
+[submodule "firmware/Core/Src/lib/libstm32"]
+	path = firmware/Core/Src/lib/libstm32
+	url = https://github.com/cmdc0de/libstm32
