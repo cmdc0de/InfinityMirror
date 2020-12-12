@@ -189,15 +189,15 @@
 <wire x1="29.093" y1="36.54" x2="0" y2="36.54" width="0" layer="20"/>
 <wire x1="0" y1="36.54" x2="0" y2="0" width="0" layer="20"/>
 <text x="14.097" y="17.399" size="0.8128" layer="25" rot="R90">STM32G031</text>
-<text x="5.08" y="31.75" size="1.27" layer="1" rot="R90">VIN</text>
-<text x="7.62" y="31.75" size="1.27" layer="1" rot="R90">GND</text>
-<text x="10.16" y="31.75" size="1.27" layer="1" rot="R90">VDD</text>
-<text x="12.7" y="31.75" size="1.27" layer="1" rot="R90">JTCK</text>
-<text x="15.24" y="31.75" size="1.27" layer="1" rot="R90">JTMS</text>
-<text x="17.78" y="31.75" size="1.27" layer="1" rot="R90">P12</text>
-<text x="20.32" y="31.75" size="1.27" layer="1" rot="R90">PA8</text>
-<text x="22.86" y="31.75" size="1.27" layer="1" rot="R90">PA7</text>
-<text x="25.4" y="31.75" size="1.27" layer="1" rot="R90">NRST</text>
+<text x="5.08" y="31.75" size="1.27" layer="25" rot="R90">VIN</text>
+<text x="7.62" y="31.75" size="1.27" layer="25" rot="R90">GND</text>
+<text x="10.16" y="31.75" size="1.27" layer="25" rot="R90">VDD</text>
+<text x="12.7" y="31.75" size="1.27" layer="25" rot="R90">JTCK</text>
+<text x="15.24" y="31.75" size="1.27" layer="25" rot="R90">JTMS</text>
+<text x="17.78" y="31.75" size="1.27" layer="25" rot="R90">P12</text>
+<text x="20.32" y="31.75" size="1.27" layer="25" rot="R90">PA8</text>
+<text x="22.86" y="31.75" size="1.27" layer="25" rot="R90">PA7</text>
+<text x="25.4" y="31.75" size="1.27" layer="25" rot="R90">NRST</text>
 </plain>
 <libraries>
 <library name="passives">
