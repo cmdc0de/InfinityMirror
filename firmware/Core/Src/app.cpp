@@ -90,7 +90,7 @@ protected:
 		if((LastTime/TimeBetweenChange)!=(HAL_GetTick()/TimeBetweenChange)) {
 			LastTime = HAL_GetTick();
 			uint8_t startPos = Count;
-			for(int i=0;i<NUM_LEDS;i++) {
+			for(uint8_t i=0;i<NUM_LEDS;i++) {
 				if((Fill && i< Count) || (!Fill &&i==Count)) {
 					leds[i] = ChaseColor;
 				} else {
